@@ -1,9 +1,9 @@
-# 백엔드 개발자 석민정입니다! 👋
+# 백엔드 개발자입니다! 👋
 
 ## 🚀 About Me
-- 🖥️ **TUKOREA**에서 컴퓨터공학을 전공하며 서버 생태계를 구축하는 것에 매력을 느끼고 있습니다.
-- 🛠️ **Backend & Database**를 중심으로 확장성 있는 시스템을 설계하고 배포하는 과정을 즐깁니다.
-- 📚 매일 **Diary**를 쓰며 성찰하고, **산책**과 **퍼즐**을 통해 문제를 해결하는 끈기를 기르고 있습니다.
+- 🖥️ **TUKOREA**에서 컴퓨터공학을 전공하며 서버 생태계를 구축하는 것에 매력을 느낍니다
+- 🛠️ **Backend & Database**를 중심으로 시스템을 설계하고 배포하는 과정을 즐깁니다.
+- 📚 **Diary**를 쓰는것을 좋아하고, **산책**과 **퍼즐**을 통해 문제를 해결하는 끈기를 기르고 있습니다.
 - 📧 Contact: minjaon@naver.com
 
 ---
@@ -25,8 +25,8 @@
 ---
 
 ## 📈 Stats
-![Min-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=(본인깃허브ID)&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=(본인깃허브ID)&layout=compact&theme=radical)
+![Min-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjaon&layout=compact&theme=radical)
 
 ---
 
