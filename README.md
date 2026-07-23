@@ -1,4 +1,4 @@
-# 백엔드 개발자입니다! 👋
+
 
 
 ---
@@ -19,11 +19,6 @@
 
 ---
 
-## 📈 Stats
-![Min-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjaon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjaon&layout=compact&theme=radical)
-
----
 
 ## 🏆 Projects
 - **AgeApt** : AI 기반 연령 분석 맞춤형 키오스크 (Spring Boot, AWS, Docker)
