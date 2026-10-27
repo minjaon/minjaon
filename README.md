@@ -1,25 +1,40 @@
-<div align="center">
+## 🛠 Tech Stack
 
-# 석민정 · Minjeong Seok
+### 🖥 Backend
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-**Embedded Linux · Firmware Developer**
+### ⚙️ Embedded & Systems
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 
+### 🗄️ Database & ORM
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-<a href="mailto:minjaon@naver.com"><img src="https://img.shields.io/badge/Email-minjaon@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Seoul,_Korea-555555?style=flat-square"/>
+### ☁️ DevOps & Deployment
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-</div>
+### 🔧 Tools
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 ---
 
-### 🛠 Tech Stack
+## 🏆 Projects
 
-**Embedded & Systems**<br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat-square&logo=arm&logoColor=white"/> <img src="https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+- **AgeApt** : AI 기반 연령 분석 맞춤형 키오스크 (Spring Boot, AWS, Docker)
+- **Planit Clone** : 일정 및 목표 관리 웹 서비스 (Python, Django, MySQL)
+- **AI Keyword Generator** : 자소서 키워드 추출 서비스 (Python, Django)
+- **GUI & Cortex M4** : STM32 NUCLEO-F411RE(Cortex-M4) 기반 스마트 신호등·차단봉 시스템 — PyQt5 GUI와 로컬 LLM(Ollama) 자연어 제어 연동 (C, PyQt5, UART)
 
-**Application & Backend**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-**Tools & Infra**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tae86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae86&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
 
