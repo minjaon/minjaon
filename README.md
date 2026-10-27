@@ -19,9 +19,9 @@
 
 ## 🏆 Projects
 
-- **[Linux Device Driver](https://github.com/minjaon/Linux_Device_Driver)** : Jetson Orin Nano 기반 커널 캐릭터 디바이스 드라이버 — 8-Bar LED 드라이버 담당 (C, Linux Kernel, ioctl)
-- **[Smart Recycling Edge AI](https://github.com/minjaon/smart-recycling-edge-ai)** : AI 분리수거 키오스크 — STM32F411 베어메탈 MCU 펌웨어 담당 (C, CMSIS, PWM, UART)
-- **[GUI & Cortex M4](https://github.com/minjaon/GUI-Cortex-M4-)** : STM32 NUCLEO-F411RE(Cortex-M4) 기반 스마트 신호등·차단봉 시스템 — PyQt5 GUI와 로컬 LLM(Ollama) 자연어 제어 연동 (C++, PyQt5, UART)
+- **[Linux Device Driver](https://github.com/minjaon/Linux_Device_Driver)** : Jetson Orin Nano 기반 커널 캐릭터 디바이스 드라이버 
+- **[Smart Recycling Edge AI](https://github.com/minjaon/smart-recycling-edge-ai)** : AI 분리수거 키오스크
+- **[GUI & Cortex M4](https://github.com/minjaon/GUI-Cortex-M4-)** : STM32 NUCLEO-F411RE(Cortex-M4) 기반 스마트 신호등·차단봉 시스템 
 - **[AgeApt](https://github.com/minjaon/AgeApt)** : AI 기반 연령 분석 맞춤형 키오스크 (Spring Boot, AWS, Docker)
 
 
