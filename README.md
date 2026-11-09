@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Seok%20Minjeong&fontColor=ffffff&fontSize=36&fontAlignY=40" width="100%"/>
 
-
 </div>
-
 ---
 
 ## 🛠 Tech Stack
@@ -28,15 +26,3 @@
 - **[AgeApt](https://github.com/minjaon/AgeApt)** : AI 기반 연령 분석 맞춤형 키오스크 (Spring Boot, AWS, Docker) — 캡스톤디자인 우수상
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minjaon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjaon&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-</div>
