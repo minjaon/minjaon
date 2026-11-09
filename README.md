@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Seok%20Minjeong&fontColor=ffffff&fontSize=36&fontAlignY=40" width="100%"/>
 
 </div>
----
 
 ## 🛠 Tech Stack
 
